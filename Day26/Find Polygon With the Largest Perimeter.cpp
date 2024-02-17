@@ -5,7 +5,6 @@ public:
 
         sort(nums.begin(), nums.end());
 
-        int i = 0;
         long long prmtr = -1;
         long long prevSum = 0;
 
