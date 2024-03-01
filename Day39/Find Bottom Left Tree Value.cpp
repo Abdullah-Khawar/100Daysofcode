@@ -17,7 +17,7 @@ public:
         // Initialize a queue to perform level-order traversal
         queue<TreeNode*> q;
 
-        // Initialize a variable to store the value of the bottom-left node
+        // Declare a variable to store the value of the bottom-left node
         int bottomLeft;
 
         // Add the root node to the queue
